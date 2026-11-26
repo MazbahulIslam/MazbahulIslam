@@ -22,9 +22,9 @@ root@mazbahul:~# cat about.txt
 ```
 
 - 🔐 Cybersecurity specialist focused on **web application security** and **bug bounty hunting**
-- 📝 I publish writeups and walkthroughs on [Medium](https://medium.com/@YOUR_MEDIUM_USERNAME)
+- 📝 I publish writeups and walkthroughs on [Medium](https://medium.com/@mazbahulislam036)
 - 🎯 I practice on [TryHackMe](https://tryhackme.com/p/mazbahulislam036) and real bug bounty programs
-- 🌐 Portfolio: [MazbahulIslam.github.io/YOUR_PORTFOLIO_REPO](https://MazbahulIslam.github.io/YOUR_PORTFOLIO_REPO)
+- 🌐 Portfolio: [MazbahulIslam.github.io/YOUR_PORTFOLIO_REPO](https://MazbahulIslam.github.io/portfolio)
 - 📫 Reach me: **mazbahulislam036@gmail.com**
 
 ---
@@ -69,9 +69,9 @@ root@mazbahul:~# ls writeups/
 ```
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Medium article title](https://medium.com/@YOUR_MEDIUM_USERNAME)
-- [Another article title](https://medium.com/@YOUR_MEDIUM_USERNAME)
-- [Third article title](https://medium.com/@YOUR_MEDIUM_USERNAME)
+- [Your Medium article title](https://medium.com/@mazbahulislam036)
+- [Another article title](https://medium.com/@mazbahulislam036)
+- [Third article title](https://medium.com/@mazbahulislam036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
