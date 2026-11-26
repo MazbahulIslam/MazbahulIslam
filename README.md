@@ -9,9 +9,9 @@
 <br>
 
 <a href="https://tryhackme.com/p/mazbahulislam036"><img src="https://img.shields.io/badge/TryHackMe-mazbahulislam036-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
-<a href="https://medium.com/@YOUR_MEDIUM_USERNAME"><img src="https://img.shields.io/badge/Medium-Writeups-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://medium.com/@mazbahulislam036"><img src="https://img.shields.io/badge/Medium-Writeups-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 <a href="mailto:mazbahulislam036@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-39ff88?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
-<a href="https://MazbahulIslam.github.io/YOUR_PORTFOLIO_REPO"><img src="https://img.shields.io/badge/Portfolio-Visit-3fd0ff?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"/></a>
+<a href="https://MazbahulIslam.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-3fd0ff?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"/></a>
 
 </div>
 
